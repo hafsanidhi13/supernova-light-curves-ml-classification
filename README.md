@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/hafsani3hi13/supernova-light-curves-ml-classification?style=social)](https://github.com/hafsani3hi13/supernova-light-curves-ml-classification)
 
 ### *Mathematical Forensics of Stellar Violence*
-### AURA Research Project @ CASSA, Independent University Bangladesh
+### AURA Research Project @ Independent University Bangladesh
 
 ![Banner](supernova_banner.png)
 
@@ -18,7 +18,6 @@
 # Supernova Classification using Machine Learning
 
 **Author:** Nublat Hafsa
-**Student ID:** 2411703
 **Date:** 2026-02-21
 
 ## Project Overview
