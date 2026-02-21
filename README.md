@@ -1,4 +1,4 @@
-![Banner](supernova_banner.png)
+
 <div align="center">
   
 # 🔭 Supernova Classification using Machine Learning
