@@ -1,4 +1,20 @@
 ![Banner](supernova_banner.png)
+<div align="center">
+  
+# 🔭 Supernova Classification using Machine Learning
+  
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/hafsani3hi13/supernova-light-curves-ml-classification?style=social)](https://github.com/hafsani3hi13/supernova-light-curves-ml-classification)
+[![GitHub forks](https://img.shields.io/github/forks/hafsani3hi13/supernova-light-curves-ml-classification?style=social)](https://github.com/hafsani3hi13/supernova-light-curves-ml-classification)
+
+### *Mathematical Forensics of Stellar Violence*
+### AURA Research Project @ CASSA, Independent University Bangladesh
+
+![Banner](supernova_banner.png)
+
+</div>
 # Supernova Classification using Machine Learning
 
 **Author:** Nublat Hafsa
