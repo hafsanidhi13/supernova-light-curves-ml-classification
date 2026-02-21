@@ -1,3 +1,4 @@
+![Banner](supernova_banner.png)
 # Supernova Classification using Machine Learning
 
 **Author:** Nublat Hafsa
