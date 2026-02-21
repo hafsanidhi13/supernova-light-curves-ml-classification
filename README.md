@@ -35,6 +35,15 @@ This pipeline classifies supernovae (Type Ia, II, Ibc) using light curve charact
 - supernova_forensics.png - Plot 1
 - confusion_matrices.png - Plot 2
 
+## References
+Zwicky Transient Facility (ZTF): https://www.ztf.caltech.edu/
+
+PLAsTiCC Astronomy Competition: https://www.kaggle.com/c/PLAsTiCC-2018
+
+AstroML: Machine Learning for Astronomy: https://www.astroml.org/
+
+Supernova Taxonomy: https://en.wikipedia.org/wiki/Supernova#Classification
+
 ## Quick Start
 ```python
 import joblib
@@ -47,3 +56,5 @@ new_supernova = np.array([[18, 0.8, -19.3, 40, 0.2]])
 normalized = scaler.transform(new_supernova)
 prediction = model.predict(normalized)
 print(f"Type: {prediction[0]}")
+
+
